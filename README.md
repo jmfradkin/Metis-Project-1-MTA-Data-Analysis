@@ -11,4 +11,6 @@ ________________________________________________________________________________
 
 
 
-This repository contains an iPython notebook with inital data analysis and a link to the presentaiton can be found here:  [Project link](https://docs.google.com/presentation/d/1wnQ8p0CEVCo86bwlI7itBjZj92ZFGQtQupW5__etoe8/edit)
+This repository contains an iPython notebook with inital data analysis and a link to the presentaiton can be found here:  [Project link](https://docs.google.com/presentation/d/1wnQ8p0CEVCo86bwlI7itBjZj92ZFGQtQupW5__etoe8/edit)  
+
+I have also added a link to the challenge set associated with this project, where we manipulated Python dictionaries to visualize various metrics for the MTA data. 
